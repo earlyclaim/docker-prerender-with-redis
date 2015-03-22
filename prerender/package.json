@@ -18,5 +18,6 @@
 	},
 	"bin": {
 		"prerender": "server.js"
-	}
+	},
+	"private": true
 }
