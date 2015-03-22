@@ -20,7 +20,7 @@ ENV REDISTOGO_URL false
 ENV REDISCLOUD_URL false
 ENV REDISGREEN_URL false
 ENV REDIS_URL  false
-RUN git clone https://github.com/earlyclaim/prerender-with-redis.git
+COPY . /prerender
 RUN cd /prerender; npm install
 
 EXPOSE  3000
