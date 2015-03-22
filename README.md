@@ -106,8 +106,6 @@ $ export AWS_REGION=eu-west-1
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Todd Hooper &lt;todd@prerender.io&gt;
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
